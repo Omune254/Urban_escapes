@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483839212676",
+    "project_id": "airbnb-43d3b",
+    "storage_bucket": "airbnb-43d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483839212676:android:da0bda020fcb331e0a96d1",
+        "android_client_info": {
+          "package_name": "com.example.urban_escape_airbnbs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQpnBfO_sB9RpJ6mKpfAvifiU6xW0rvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
